@@ -1,0 +1,23 @@
+# Build directories
+build/
+*.o
+*.a
+
+# Executables
+quickjs_wrapper_tests
+quickjs_example
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

@@ -1,0 +1,6 @@
+[submodule "quickjs"]
+	path = quickjs
+	url = https://github.com/quickjs-ng/quickjs.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
